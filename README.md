@@ -114,11 +114,6 @@ Distributed Systems     ██████████░░░░░░░░�
 
 <img src="https://komarev.com/ghpvc/?username=vedanttamhanekar&style=flat-square&color=7F77DD" alt="Profile views"/>
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedanttamhanekar/vedanttamhanekar/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedanttamhanekar/vedanttamhanekar/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/vedanttamhanekar/vedanttamhanekar/output/github-contribution-grid-snake.svg"/>
-</picture>
+
 
 </div>
