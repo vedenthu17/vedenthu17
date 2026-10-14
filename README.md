@@ -1,129 +1,53 @@
 <div align="center">
 
-<!-- Back to the Future banner (animated SVG, commit bttf-banner.svg next to this README) -->
 <a href="https://vedenthu17.github.io/githubtheme/profile.html">
-  <img src="./bttf-banner.svg" width="100%" alt="Vedant Tamhanekar: ML + Competitive Programming, Back to the Future style" />
+  <img src="./bttf-banner.svg" width="100%" alt="Vedant Tamhanekar. VJTI, Information Technology, Thane. ML + competitive programming. Destination time: Dec 31 2026." />
 </a>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB21A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vedant+Tamhanekar+%F0%9F%91%8B;Destination+time%3A+DEC+31+2026;ML+%2B+Competitive+Programming;Consistency+%26+Perseverance" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Info badges -->
-![VJTI](https://img.shields.io/badge/VJTI-Information%20Technology-7F77DD?style=flat-square&logo=graduation-cap&logoColor=white)
-![Year](https://img.shields.io/badge/Second%20Year-2nd-1D9E75?style=flat-square)
-![Location](https://img.shields.io/badge/Thane%2C%20India-📍-D85A30?style=flat-square)
-![Speed](https://img.shields.io/badge/Top%20speed-88%20mph-FF3B2F?style=flat-square)
 
 <a href="https://vedenthu17.github.io/githubtheme/profile.html">
-  <img src="https://img.shields.io/badge/⚡%20Enter%20the%20time%20machine-FF6A00?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡%20Enter%20the%20time%20machine-FF6A00?style=for-the-badge&logo=github&logoColor=white" alt="Enter the time machine"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="./bttf-lab.svg" width="100%" alt="Doc's lab, my tech stack. Languages: C++, Python, JavaScript, Java. Machine learning: PyTorch, TensorFlow, scikit-learn, NumPy, Pandas. Web: React, Next.js, Node.js, Express, PostgreSQL. Tools: Git, Docker, Linux, VS Code." />
 
-## 🚀 Tech Stack
+<br/><br/>
 
-<div align="center">
+<img src="./bttf-flux.svg" width="100%" alt="Flux levels, what I'm currently learning: Machine learning 80%, System design 70%, Advanced DSA 65%, Backend architecture 60%, Distributed systems 50%." />
 
-**Languages**
+<br/><br/>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Web Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-## 🧠 Currently Learning
-
-```text
-Machine Learning        ████████████████░░░░   80%
-System Design           ██████████████░░░░░░   70%
-Advanced DSA            █████████████░░░░░░░   65%
-Backend Architecture    ████████████░░░░░░░░   60%
-Distributed Systems     ██████████░░░░░░░░░░   50%
-```
-
----
-
-## 🎯 2026 Goals
-
-| Goal | Status |
-|------|--------|
-| 🚀 Build production ML project | 🔄 In Progress |
-| 🧠 Reach strong CP rating | 🔄 In Progress |
-| 🌐 Build scalable full-stack app | 🔄 In Progress |
-| 🏗️ Master system design | 🔄 In Progress |
-| 🔥 Open source contributions | 🔄 In Progress |
-
----
-
-## ⚡ Competitive Programming
-
-<div align="center">
+<img src="./bttf-almanac.svg" width="100%" alt="Coding almanac: Codeforces, LeetCode, CodeChef and HackerRank." />
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vedanttamhanekar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vedanttamhanekar)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vedanttamhanekar)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vedanttamhanekar)
 
-</div>
+<br/><br/>
 
----
+<img src="./bttf-goals.svg" width="100%" alt="2026 goals, all in progress: build a production ML project, reach a strong CP rating, build a scalable full-stack app, master system design, make open source contributions." />
 
-## 🌐 Connect
+<br/><br/>
 
-<div align="center">
+<img src="./bttf-telegram.svg" width="100%" alt="Telegram: if you want to build something together or trade contest notes, reach me on any wire below." />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedanttamhanekar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedanttamhanekar)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vedanttamhanekar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedanttamhanekar@gmail.com)
 
-</div>
+<br/><br/>
 
----
+<img src="./bttf-tower.svg" width="100%" alt="Consistency beats motivation. Discipline beats talent. Perseverance builds mastery." />
 
-## 🧬 Developer Philosophy
-
-<div align="center">
-
-> *"Consistency beats motivation. Discipline beats talent. Perseverance builds mastery."*
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=vedanttamhanekar&style=flat-square&color=FF6A00" alt="Profile views"/>
 
-</div>
-<div align="center">
 <a href="https://vedenthu17.github.io/githubtheme/profile.html">
-  <img src="https://img.shields.io/badge/⚡%20Hit%2088%20mph%20%E2%80%94%20open%20the%20animated%20profile-FF3B2F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡%20Hit%2088%20mph%20%E2%80%94%20open%20the%20animated%20profile-FF3B2F?style=for-the-badge&logo=github&logoColor=white" alt="Open the animated profile"/>
 </a>
+
 </div>

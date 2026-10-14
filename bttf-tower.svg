@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="352" viewBox="0 0 900 352" role="img" aria-label="Clock tower struck by lightning at 10:04 PM. Consistency beats motivation. Discipline beats talent. Perseverance builds mastery.">
+<defs>
+<linearGradient id="logo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffdc3a"/><stop offset=".38" stop-color="#ffb21a"/><stop offset=".64" stop-color="#ff6a00"/><stop offset="1" stop-color="#e3201b"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0a14"/><stop offset="1" stop-color="#17131f"/></linearGradient>
+<linearGradient id="steel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d293b"/><stop offset="1" stop-color="#1d1a2a"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-50%" y="-80%" width="200%" height="260%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>
+.name{font-family:'Arial Black','Arial Bold',Impact,sans-serif;font-weight:900;font-style:italic}
+.led{font-family:Consolas,'Courier New',monospace;font-weight:700}
+.label{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:2px}
+.chalk{font-family:'Segoe Print','Bradley Hand','Comic Sans MS',cursive}
+.type{font-family:'Courier New',Courier,monospace;font-weight:700}
+@keyframes blink{50%{opacity:0}}
+.blink{animation:blink 1.2s steps(1) infinite}.bolt{opacity:0;animation:strike 6s steps(1) infinite}@keyframes strike{0%{opacity:1}2%{opacity:0}3%{opacity:1}6%,100%{opacity:0}}
+.flash{opacity:0;animation:flash 6s ease-out infinite}@keyframes flash{0%{opacity:.22}12%,100%{opacity:0}}
+.face{opacity:0;animation:face 6s ease-out infinite}@keyframes face{0%{opacity:.9}45%,100%{opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="900" height="352" rx="14" fill="url(#bg)"/>
+<g fill="#e6ebff"><circle cx="322" cy="8" r="0.8" fill-opacity="0.78"/><circle cx="638" cy="74" r="1.3" fill-opacity="0.72"/><circle cx="186" cy="24" r="1.1" fill-opacity="0.31"/><circle cx="824" cy="80" r="1.0" fill-opacity="0.68"/><circle cx="482" cy="44" r="1.2" fill-opacity="0.59"/><circle cx="786" cy="27" r="1.0" fill-opacity="0.51"/><circle cx="356" cy="19" r="1.0" fill-opacity="0.39"/><circle cx="809" cy="82" r="0.8" fill-opacity="0.66"/><circle cx="790" cy="12" r="0.7" fill-opacity="0.80"/><circle cx="1" cy="13" r="0.8" fill-opacity="0.26"/><circle cx="624" cy="90" r="0.6" fill-opacity="0.38"/><circle cx="853" cy="70" r="0.6" fill-opacity="0.32"/><circle cx="564" cy="2" r="1.1" fill-opacity="0.60"/><circle cx="676" cy="13" r="0.8" fill-opacity="0.68"/></g>
+<rect class="flash" width="900" height="352" rx="14" fill="#bff3ff"/>
+<g transform="translate(50 36) scale(0.95)">
+<path d="M110 6 Q170 70 240 100" fill="none" stroke="#a6a1ba" stroke-width="1.6"/>
+<g fill="#2b2739"><circle cx="110" cy="6" r="4"/><rect x="108" y="8" width="4" height="22"/><polygon points="60,80 110,26 160,80"/><rect x="52" y="78" width="116" height="14"/><rect x="64" y="92" width="92" height="228"/><rect x="56" y="210" width="108" height="10"/></g>
+<rect x="96" y="238" width="28" height="52" rx="14" fill="#08070f"/>
+<circle cx="110" cy="150" r="34" fill="#f3eedc" stroke="#8a909e" stroke-width="4"/>
+<circle class="face" cx="110" cy="150" r="34" fill="#ffdc3a" filter="url(#glow)"/>
+<g stroke="#1d1f26" stroke-width="2.5" stroke-linecap="round"><line x1="110.0" y1="126.0" x2="110.0" y2="119.0"/><line x1="124.0" y1="125.8" x2="125.5" y2="123.2"/><line x1="134.2" y1="136.0" x2="136.8" y2="134.5"/><line x1="134.0" y1="150.0" x2="141.0" y2="150.0"/><line x1="134.2" y1="164.0" x2="136.8" y2="165.5"/><line x1="124.0" y1="174.2" x2="125.5" y2="176.8"/><line x1="110.0" y1="174.0" x2="110.0" y2="181.0"/><line x1="96.0" y1="174.2" x2="94.5" y2="176.8"/><line x1="85.8" y1="164.0" x2="83.2" y2="165.5"/><line x1="86.0" y1="150.0" x2="79.0" y2="150.0"/><line x1="85.8" y1="136.0" x2="83.2" y2="134.5"/><line x1="96.0" y1="125.8" x2="94.5" y2="123.2"/></g>
+<line x1="110" y1="150" x2="110" y2="131" stroke="#1d1f26" stroke-width="4.5" stroke-linecap="round" transform="rotate(302 110 150)"/>
+<line x1="110" y1="150" x2="110" y2="123" stroke="#1d1f26" stroke-width="2.6" stroke-linecap="round" transform="rotate(24 110 150)"/>
+<circle cx="110" cy="150" r="3.2" fill="#1d1f26"/></g>
+<polyline class="bolt" points="330,0 300,8 314,13 262,22 276,26 214,32 226,35 154.5,37.9" fill="none" stroke="#e8fbff" stroke-width="3.5" stroke-linejoin="round" filter="url(#glow)"/>
+<polyline class="bolt" points="262,22 250,6 236,0" fill="none" stroke="#e8fbff" stroke-width="1.6" filter="url(#glow)"/><g transform="translate(330 30) rotate(-1.5)"><rect width="237" height="24" rx="3" fill="#1a3c94"/><text x="15" y="16.5" class="label" font-size="11" fill="#efecf7">NOV 12 1955 &#183; 10:04 PM</text></g>
+<g transform="translate(334 0) skewX(-6)" class="name" font-size="23" fill="url(#logo)" stroke="#5e0a0d" stroke-width="2" paint-order="stroke">
+<text y="104">CONSISTENCY BEATS MOTIVATION.</text><text y="136">DISCIPLINE BEATS TALENT.</text><text y="168">PERSEVERANCE BUILDS MASTERY.</text></g>
+<text x="334" y="196" class="led" font-size="13" fill="#a6a1ba">&#8212; VEDANT TAMHANEKAR</text>
+<text x="334" y="246" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="19" fill="#efecf7">&#8220;Your future is whatever you make it. So make it a good one.&#8221;</text>
+<text x="334" y="272" class="led" font-size="13" fill="#a6a1ba">&#8212; DOC BROWN, 1885</text>
+<text x="334" y="318" class="led" font-size="13" fill="#ffb21a" filter="url(#glow)">&gt; CLOCK STOPPED AT 10:04 PM. 1.21 GIGAWATTS DELIVERED.</text>
+</svg>
