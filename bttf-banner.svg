@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Vedant Tamhanekar. ML + competitive programming. Back to the Future style banner.">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#08070f"/><stop offset="1" stop-color="#1b1628"/></linearGradient>
+    <linearGradient id="logo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffdc3a"/><stop offset=".38" stop-color="#ffb21a"/><stop offset=".64" stop-color="#ff6a00"/><stop offset="1" stop-color="#e3201b"/></linearGradient>
+    <linearGradient id="arrowG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e3201b"/><stop offset=".45" stop-color="#ff6a00"/><stop offset="1" stop-color="#ffdc3a"/></linearGradient>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="fireglow" x="-10%" y="-300%" width="120%" height="700%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    .name{font-family:'Arial Black','Arial Bold',Impact,sans-serif;font-weight:900;font-style:italic}
+    .led{font-family:Consolas,'Courier New',monospace;font-weight:700}
+    .label{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:3px}
+    .n1{animation:slam .8s cubic-bezier(.2,1.4,.3,1) .2s both}
+    .n2{animation:slam .9s cubic-bezier(.2,1.4,.3,1) .45s both}
+    @keyframes slam{0%{opacity:0;transform:translateX(-160px)}60%{opacity:1}100%{opacity:1;transform:none}}
+    .arrow{transform-origin:80px 226px;animation:grow .7s cubic-bezier(.7,0,.2,1) 1.1s both}
+    @keyframes grow{from{transform:scaleX(0)}}
+    .trail{stroke-dasharray:920;stroke-dashoffset:920;animation:burn 7s linear 1.4s infinite}
+    @keyframes burn{0%{stroke-dashoffset:920;opacity:1}8%{stroke-dashoffset:0;opacity:1}35%{opacity:.85}55%,100%{stroke-dashoffset:0;opacity:0}}
+    .bolt{opacity:0;animation:strike 7s steps(1) 1.4s infinite}
+    @keyframes strike{0%{opacity:1}2%{opacity:0}3%{opacity:1}5%,100%{opacity:0}}
+    .flash{opacity:0;animation:flash 7s ease-out 1.4s infinite}
+    @keyframes flash{0%{opacity:.3}10%,100%{opacity:0}}
+    .tk{opacity:0;animation:cycle 9s 1.6s infinite}
+    .tk2{animation-delay:4.6s}.tk3{animation-delay:7.6s}
+    @keyframes cycle{0%{opacity:0}3%{opacity:1}31%{opacity:1}34%,100%{opacity:0}}
+    .blink{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .hum{animation:hum 2.4s ease-in-out infinite}
+    @keyframes hum{50%{opacity:.75}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.tk1{opacity:1}.trail,.bolt,.flash{opacity:0}}
+  </style>
+
+  <rect width="900" height="300" fill="url(#sky)"/>
+  <g fill="#e6ebff">
+    <circle cx="40" cy="22" r="1"/><circle cx="130" cy="70" r="1.2"/><circle cx="250" cy="18" r="1"/><circle cx="340" cy="92" r=".8"/><circle cx="470" cy="28" r="1.4"/>
+    <circle cx="520" cy="110" r="1"/><circle cx="640" cy="18" r="1"/><circle cx="700" cy="128" r="1.2"/><circle cx="880" cy="20" r="1"/><circle cx="860" cy="160" r=".8"/>
+    <circle cx="610" cy="200" r="1"/><circle cx="20" cy="150" r="1"/><circle cx="420" cy="60" r=".8"/><circle cx="720" cy="66" r=".8"/>
+  </g>
+  <rect class="flash" width="900" height="300" fill="#62e4ff"/>
+  <polyline class="bolt" points="612,0 596,34 612,40 584,82 600,88 570,136" fill="none" stroke="#c9f5ff" stroke-width="3" stroke-linejoin="round" filter="url(#glow)"/>
+
+  <!-- road + fire trails -->
+  <rect y="262" width="900" height="38" fill="#15131d"/>
+  <line x1="0" y1="262" x2="900" y2="262" stroke="#ff6a00" stroke-opacity=".45"/>
+  <g fill="none" stroke-linecap="round" filter="url(#fireglow)">
+    <path class="trail" d="M910 276 H-10" stroke="#ff6a00" stroke-width="6"/>
+    <path class="trail" d="M910 290 H-10" stroke="#ff6a00" stroke-width="6"/>
+    <path class="trail" d="M910 276 H-10" stroke="#ffe08a" stroke-width="2"/>
+    <path class="trail" d="M910 290 H-10" stroke="#ffe08a" stroke-width="2"/>
+  </g>
+
+  <!-- Dymo label -->
+  <g transform="translate(60 34) rotate(-1.5)">
+    <rect width="392" height="26" rx="3" fill="#151219"/>
+    <text x="14" y="18" class="label" font-size="11.5" fill="#efecf7">VJTI Â· INFORMATION TECHNOLOGY Â· THANE</text>
+  </g>
+
+  <!-- name, BTTF logo style -->
+  <g transform="skewX(-8)">
+    <g class="n1">
+      <text x="98" y="130" class="name" font-size="50" fill="#2e0507" stroke="#5e0a0d" stroke-width="9" stroke-linejoin="round" transform="translate(4 5)">VEDANT</text>
+      <text x="98" y="130" class="name" font-size="50" fill="url(#logo)" stroke="#5e0a0d" stroke-width="2.5" paint-order="stroke">VEDANT</text>
+    </g>
+    <g class="n2">
+      <text x="88" y="210" class="name" font-size="84" fill="#2e0507" stroke="#5e0a0d" stroke-width="11" stroke-linejoin="round" transform="translate(5 6)">TAMHANEKAR</text>
+      <text x="88" y="210" class="name" font-size="84" fill="url(#logo)" stroke="#5e0a0d" stroke-width="3" paint-order="stroke">TAMHANEKAR</text>
+    </g>
+  </g>
+  <g class="arrow">
+    <polygon points="84,224 690,224 690,216 720,229 690,242 690,234 84,234" fill="#5e0a0d" transform="translate(4 4)"/>
+    <polygon points="80,221 686,221 686,213 716,226 686,239 686,231 80,231" fill="url(#arrowG)"/>
+  </g>
+
+  <!-- 88 mph speedometer -->
+  <g transform="translate(748 34)">
+    <rect width="112" height="72" rx="8" fill="#0b0407" stroke="#2b2739" stroke-width="2"/>
+    <text x="56" y="57" text-anchor="middle" class="led" font-size="50" fill="#ff3b2f" fill-opacity=".1">88</text>
+    <text x="56" y="57" text-anchor="middle" class="led hum" font-size="50" fill="#ff3b2f" filter="url(#glow)">88</text>
+    <text x="56" y="92" text-anchor="middle" class="label" font-size="10" fill="#a6a1ba">MPH</text>
+  </g>
+
+  <!-- destination time -->
+  <g transform="translate(748 126)">
+    <rect width="112" height="30" rx="5" fill="#0b0407" stroke="#2b2739" stroke-width="2"/>
+    <text x="56" y="21" text-anchor="middle" class="led" font-size="15" fill="#ff3b2f" filter="url(#glow)">DEC 31 2026</text>
+    <text x="56" y="48" text-anchor="middle" class="label" font-size="7.5" fill="#a6a1ba">DESTINATION TIME</text>
+  </g>
+
+  <!-- LED ticker -->
+  <g class="led" font-size="15" fill="#ffb21a" filter="url(#glow)">
+    <text x="80" y="257" class="tk tk1">&gt; ML + COMPETITIVE PROGRAMMING</text>
+    <text x="80" y="257" class="tk tk2">&gt; CONSISTENCY &amp; PERSEVERANCE</text>
+    <text x="80" y="257" class="tk tk3">&gt; WHERE WE'RE GOING, WE DON'T NEED ROADS</text>
+  </g>
+  <rect x="66" y="246" width="7" height="13" fill="#ffb21a" class="blink"/>
+</svg>

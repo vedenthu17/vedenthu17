@@ -1,8 +1,14 @@
 <div align="center">
 
-<!-- Typing SVG animation -->
+<!-- Back to the Future banner (animated SVG, commit bttf-banner.svg next to this README) -->
+<a href="https://vedenthu17.github.io/githubtheme/profile.html">
+  <img src="./bttf-banner.svg" width="100%" alt="Vedant Tamhanekar: ML + Competitive Programming, Back to the Future style" />
+</a>
+
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vedant+Tamhanekar+%F0%9F%91%8B;ML+%2B+Competitive+Programming;Consistency+%26+Perseverance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB21A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vedant+Tamhanekar+%F0%9F%91%8B;Destination+time%3A+DEC+31+2026;ML+%2B+Competitive+Programming;Consistency+%26+Perseverance" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,6 +17,11 @@
 ![VJTI](https://img.shields.io/badge/VJTI-Information%20Technology-7F77DD?style=flat-square&logo=graduation-cap&logoColor=white)
 ![Year](https://img.shields.io/badge/Second%20Year-2nd-1D9E75?style=flat-square)
 ![Location](https://img.shields.io/badge/Thane%2C%20India-📍-D85A30?style=flat-square)
+![Speed](https://img.shields.io/badge/Top%20speed-88%20mph-FF3B2F?style=flat-square)
+
+<a href="https://vedenthu17.github.io/githubtheme/profile.html">
+  <img src="https://img.shields.io/badge/⚡%20Enter%20the%20time%20machine-FF6A00?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -51,10 +62,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-
-
-
 
 ## 🧠 Currently Learning
 
@@ -112,14 +119,11 @@ Distributed Systems     ██████████░░░░░░░░�
 
 > *"Consistency beats motivation. Discipline beats talent. Perseverance builds mastery."*
 
-<img src="https://komarev.com/ghpvc/?username=vedanttamhanekar&style=flat-square&color=7F77DD" alt="Profile views"/>
-
-<!-- Snake animation -->
-
+<img src="https://komarev.com/ghpvc/?username=vedanttamhanekar&style=flat-square&color=FF6A00" alt="Profile views"/>
 
 </div>
 <div align="center">
 <a href="https://vedenthu17.github.io/githubtheme/profile.html">
-  <img src="https://img.shields.io/badge/✨%20View%20Animated%20Profile-7F77DD?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡%20Hit%2088%20mph%20%E2%80%94%20open%20the%20animated%20profile-FF3B2F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
