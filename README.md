@@ -33,6 +33,14 @@
 
 <img src="./signal-transmissions.svg" width="100%" alt="Transmission 07 and 2026 objectives, all in progress: build a production ML project, reach a strong CP rating, build a scalable full-stack app, master system design, make open source contributions." />
 
+<br/>
+
+<sub><b>OPEN SOURCE CONTRIBUTIONS</b></sub>
+
+<br/>
+
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
 <br/><br/>
 
 <img src="./signal-contact.svg" width="100%" alt="Contact frequency. Good evening, Vedant. Are you still there?" />
